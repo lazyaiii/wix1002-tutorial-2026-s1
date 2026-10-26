@@ -100,7 +100,6 @@
 ## Question 2
 
 #### (a)
-##### Incorrect code:
 ##### Corrected code:
 ``` java
 if (num1 == num2) // Correction: Use "==" for comparison.
